@@ -226,7 +226,7 @@ html {
   visibility: collapse;
 }
 /* Responsive desing */
-@media(max-width:376px) {
+@media(max-width:450px) {
   .navbar{
     visibility: inherit;
   }
